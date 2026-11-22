@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Engineering Student at KFUPM</b><br>
-  Software design · Problem solving · Building useful applications
+  Software design · Problem solving ·  Exploring new technologies
 </p>
 
 ---
